@@ -48,7 +48,7 @@
 # Diff
 # immutable
 
-('Kennedy', 'Peace', 'Gideon', 'Inyene', 'Chuks')
+# ('Kennedy', 'Peace', 'Gideon', 'Inyene', 'Chuks')
 # how to wrap a selected item at once in quotes
 
 # -- Chkuwudi stops here
@@ -58,18 +58,18 @@
 
 # DICTIONARY
 
-{
-    'first_name' : "Kennedy",
-    'last_name' : "Ekanem",
-    'state' : "Ebonyi",
-    "age" : 12,
-    "buzz_words" : ["teaching", "python", "Devrel", "infra", "open source"],
-    "married?" : True
-}
+# {
+#     'first_name' : "Kennedy",
+#     'last_name' : "Ekanem",
+#     'state' : "Ebonyi",
+#     "age" : 12,
+#     "buzz_words" : ["teaching", "python", "Devrel", "infra", "open source"],
+#     "married?" : True
+# }
 
 # set
 # What is the keyword for a set?
 
 
-{2, 4, 1, 7}
+# {2, 4, 1, 7}
 
